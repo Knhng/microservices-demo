@@ -1,0 +1,16 @@
+2022-07-05 17:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 16.0.2 on LBNL822296 with PID 27208 (C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo\twitter-to-kafka-service\target\classes started by KHOANG in C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo)
+2022-07-05 17:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 17:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.74 seconds (JVM running for 1.112)
+2022-07-05 17:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-07-05 17:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-05 17:09:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 16.0.2 on LBNL822296 with PID 27352 (C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo\twitter-to-kafka-service\target\classes started by KHOANG in C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo)
+2022-07-05 17:09:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 17:09:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.72 seconds (JVM running for 1.094)
+2022-07-05 17:09:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-07-05 17:09:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-05 17:12:31 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 16.0.2 on LBNL822296 with PID 15324 (C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo\twitter-to-kafka-service\target\classes started by KHOANG in C:\Users\KHOANG\Desktop\UDEMY microservices project\Microservices Demo\microservices-demo)
+2022-07-05 17:12:31 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 17:12:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.746 seconds (JVM running for 1.124)
+2022-07-05 17:12:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-07-05 17:12:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-05 17:12:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
