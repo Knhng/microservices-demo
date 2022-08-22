@@ -14,16 +14,13 @@ import javax.annotation.PostConstruct;
 @Configuration
 public class RetryConfig {
 
-    //@Autowired
     private final RetryConfigData retryConfigData;
 
-    //@Lazy
     public RetryConfig(RetryConfigData configData) {
         this.retryConfigData = configData;
     }
 
     @Bean
-    //@PostConstruct
     public RetryTemplate retryTemplate() {
         RetryTemplate retryTemplate = new RetryTemplate();
 

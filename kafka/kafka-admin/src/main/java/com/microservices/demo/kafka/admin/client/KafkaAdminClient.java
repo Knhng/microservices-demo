@@ -34,15 +34,10 @@ public class KafkaAdminClient {
 
     private final AdminClient adminClient;
 
-    //private RetryTemplate retryTemplate = new RetryTemplate();
-
     private final RetryTemplate retryTemplate;
-
-    //Moet moet = new Moet(retryTemplate);
 
     private final WebClient webClient;
 
-    //@Lazy
     public KafkaAdminClient(KafkaConfigData config,
                             RetryConfigData retryConfigData,
                             AdminClient client,
@@ -52,9 +47,7 @@ public class KafkaAdminClient {
         this.kafkaConfigData = config;
         this.retryConfigData = retryConfigData;
         this.adminClient = client;
-        //this.retryTemplate = new RetryTemplate();
         this.retryTemplate = template;
-        //this.moet = moet;
         this.webClient = webClient;
     }
 

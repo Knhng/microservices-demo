@@ -19,14 +19,12 @@ public class KafkaStreamInitializer implements StreamInitializer {
 
     private final KafkaAdminClient kafkaAdminClient;
 
-    //@Lazy
     public KafkaStreamInitializer(KafkaConfigData configData, KafkaAdminClient adminClient) {
         this.kafkaConfigData = configData;
         this.kafkaAdminClient = adminClient;
     }
 
     @Override
-    @PostConstruct
     public void init() {
         kafkaAdminClient.createTopics();
         kafkaAdminClient.checkSchemaRegistry();
